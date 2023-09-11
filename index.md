@@ -93,7 +93,7 @@ end
 - level 1 item
 
 ### Small image
-
+![Map](./ReigionMap_01.drawio.png)
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
